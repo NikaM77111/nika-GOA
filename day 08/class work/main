@@ -1,0 +1,5 @@
+# Get the number from the user
+number = float(input("Enter a number: "))
+
+# Check if the number is between 5 and 10 and print the result
+print(5 <= number <= 10)
