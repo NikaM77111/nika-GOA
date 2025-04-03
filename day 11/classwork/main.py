@@ -7,3 +7,4 @@ average = total / 10
 
 print("Sum:", total)
 print("Average:", average)
+
